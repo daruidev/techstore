@@ -1,4 +1,4 @@
-# TechStore - Loja de Informática
+# Pichu Store - Loja de Informática
 
 - Desenvolvido por: Jessé Rodrigues Gonçalves
 - Matéria: Linguagem de Programação 3
